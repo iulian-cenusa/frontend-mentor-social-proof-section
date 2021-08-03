@@ -44,8 +44,6 @@ Users should be able to:
 
 In this project I learned how to use margins CSS property in order to align content elements in staircase shapes.
 
-To see how you can add code snippets, see below:
-
 ### Continued development
 
 As with every project this is not complete. It can be improved to look exactly like the design files.
